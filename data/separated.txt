@@ -1,0 +1,1697 @@
+  
+  
+  
+      <div class="view-content">
+
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/adam-and-eve">Adam-and-Eve</a> (Arum, Lord-and-Ladies, Wake Robin, Starch Root, Bobbins, Cuckoo Plant) | <b>Scientific Names:</b> <i>Arum maculatum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/african-wonder-tree">African Wonder Tree</a> () | <b>Scientific Names:</b> <i>Ricinus communis</i> | <b>Family:</b>  </span>  </div>  </div>
+
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/alocasia">Alocasia</a> (Elephant&#039;s Ear) | <b>Scientific Names:</b> <i>Alocasia spp.</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/aloe">Aloe</a> () | <b>Scientific Names:</b> <i>Aloe vera</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/amaryllis">Amaryllis</a> (Many, including: Belladonna lily, Saint Joseph lily, Cape Belladonna, Naked Lady) | <b>Scientific Names:</b> <i>Amaryllis spp.</i> | <b>Family:</b> Amaryllidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/ambrosia-mexicana">Ambrosia Mexicana</a> (Jerusalem Oak, Feather Geranium) | <b>Scientific Names:</b> <i>Chenopodium botrys</i> | <b>Family:</b> Chenopodiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/american-bittersweet">American Bittersweet</a> (Bittersweet, Waxwork, Shrubby Bittersweet, False Bittersweet, Climbing Bittersweet) | <b>Scientific Names:</b> <i>Celastrus scandens</i> | <b>Family:</b> Celastraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/american-holly">American Holly</a> (English Holly, European Holly, Oregon Holly, Inkberry, Winterberry) | <b>Scientific Names:</b> <i>Ilex opaca</i> | <b>Family:</b> Aquifoliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/american-mandrake">American Mandrake</a> (Mayapple, Indian Apple Root, Umbrella Leaf, Wild Lemon, Hog Apple, Duck&#039;s Foot, Raccoonberry) | <b>Scientific Names:</b> <i>Podophyllum peltatum</i> | <b>Family:</b> Berberidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/american-yew">American Yew</a> (Canada Yew, Canadian Yew) | <b>Scientific Names:</b> <i>Taxus canadensus</i> | <b>Family:</b> Taxaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/andromeda-japonica">Andromeda Japonica</a> (Pieris, Lily-of-the-Valley Bush) | <b>Scientific Names:</b> <i>Pieris japonica</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/angelica-tree">Angelica Tree</a> (Hercules&#039; Club, Devil&#039;s Walking Stick, Prickly Ash, Prickly Elder) | <b>Scientific Names:</b> <i>Aralia spinosa</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/apple">Apple</a> (Includes crabapples) | <b>Scientific Names:</b> <i>Malus sylvestrus</i> | <b>Family:</b> Rosaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/apricot">Apricot</a> (Group also includes Plum, Peach, Cherry) | <b>Scientific Names:</b> <i>Prunus armeniaca</i> | <b>Family:</b> Rosaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/arrow-head-vine">Arrow-Head Vine</a> (Nephthytis, Green Gold Naphthysis, African Evergreen, Trileaf Wonder) | <b>Scientific Names:</b> <i>Syngonium podophyllum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-16 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/arum">Arum</a> (Cuckoo-pint, Lord-and-Ladies, Adam-and-Eve, Starch Root, Bobbins, Wake Robin) | <b>Scientific Names:</b> <i>Arum maculatum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-17 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/arum-lily">Arum Lily</a> (Calla Lily, Pig Lily, White Arum, Trumpet Lily, Florist&#039;s Calla, Garden Calla) | <b>Scientific Names:</b> <i>Zantedeschia aethiopica</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-18 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/asian-lily">Asian Lily</a> (Asiatic Lily) | <b>Scientific Names:</b> <i>Lilium asiatica</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-19 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/asparagus-fern">Asparagus Fern</a> (Asparagus, Emerald Feather, Emerald Fern, Sprengeri Fern, Plumosa Fern, Lace Fern, Racemose Asparagus, Shatavari) | <b>Scientific Names:</b> <i>Asparagus densiflorus cv sprengeri</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-20 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/australian-ivy-palm">Australian Ivy Palm</a> (Schefflera, Umbrella Tree, Octopus Tree, Starleaf) | <b>Scientific Names:</b> <i>Brassaia actinophylla</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-21 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/autumn-crocus">Autumn Crocus</a> (Meadow Saffron) | <b>Scientific Names:</b> <i>Colchicum autumnale</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-22 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/azalea">Azalea</a> (Rosebay, Rhododendron) | <b>Scientific Names:</b> <i>Rhododendron spp</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-23 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/baby-doll-ti-plant">Baby Doll Ti Plant</a> (Ti-Plant, Good-Luck Plant, Hawaiian Ti Plant) | <b>Scientific Names:</b> <i>Cordyline terminalis</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-24 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/barbados-aloe">Barbados Aloe</a> (Medicine Plant, True Aloe) | <b>Scientific Names:</b> <i>Aloe barbadensis</i> | <b>Family:</b> Aloaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-25 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/barbados-lily">Barbados Lily</a> (Amaryllis, Fire Lily, Lily of the Palace, Ridderstjerne) | <b>Scientific Names:</b> <i>Hippeastrum spp.</i> | <b>Family:</b> Amaryllidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-26 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/barbados-pride">Barbados Pride</a> (Peacock Flower, Dwarf Poinciana) | <b>Scientific Names:</b> <i>Caesalpinia pulcherrima</i> | <b>Family:</b>  </span>  </div>  </div>
+
+  <div class="views-row views-row-27 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/barbados-pride-2">Barbados Pride 2</a> (Bird of Paradise, Poinciana, Brazilwood) | <b>Scientific Names:</b> <i>Poinciana gilliesii</i> | <b>Family:</b> Leguminosae </span>  </div>  </div>
+
+  <div class="views-row views-row-28 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/bay-laurel">Bay Laurel</a> (Sweet Bag, Bay Tree, Tree Laurel, Laurel Tree, Laurel) | <b>Scientific Names:</b> <i>Laurus nobilis</i> | <b>Family:</b> Lauraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-29 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/bead-tree">Bead Tree</a> (China Ball Tree, Paradise Tree, Persian Lilac, White Cedar, Japanese Bead Tree, Texas Umbrella Tree, Pride-of-India, Chinaberry Tree) | <b>Scientific Names:</b> <i>Melia azedarach</i> | <b>Family:</b> Meliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-30 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/begonia">Begonia</a> (Over 1,000 species and 10,000 hybrids) | <b>Scientific Names:</b> <i>Begonia spp.</i> | <b>Family:</b> Begoniaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-31 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/bergamot-orange">Bergamot Orange</a> (Bergamot, Citrus bergamia) | <b>Scientific Names:</b> <i>Citrus Aurantium</i> | <b>Family:</b> Rutaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-32 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/bird-paradise">Bird of Paradise</a> (Peacock Flower, Barbados Pride, Poinciana, Pride of Barbados) | <b>Scientific Names:</b> <i>Caesalpinia gilliesii</i> | <b>Family:</b> Leguminosae </span>  </div>  </div>
+
+  <div class="views-row views-row-33 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/bird-paradise-2">Bird of Paradise 2</a> (Peacock Flower, Barbados Pride, Poinciana, Pride of Barbados) | <b>Scientific Names:</b> <i>Poinciana gilliesii</i> | <b>Family:</b> Leguminosae </span>  </div>  </div>
+
+  <div class="views-row views-row-34 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/bird-paradise-flower">Bird of Paradise Flower</a> (Crane Flower, Bird&#039;s Tongue Flower) | <b>Scientific Names:</b> <i>Strelitzia reginae</i> | <b>Family:</b> Strelitziaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-35 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/birds-tongue-flower">Bird&#039;s Tongue Flower</a> (Bird of Paradise Flower, Crane Flower) | <b>Scientific Names:</b> <i>Strelitzia reginae</i> | <b>Family:</b> Strelitziaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-36 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/bishops-weed">Bishop’s Weed</a> (Greater Ammi, False Queen Anne&#039;s Lace) | <b>Scientific Names:</b> <i>Ammi majus</i> | <b>Family:</b> Apiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-37 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/bitter-root">Bitter Root</a> (Dogbane Hemp, Indian Hemp) | <b>Scientific Names:</b> <i>Apocynum androsaemifolium</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-38 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/black-calla">Black Calla</a> (Solomon&#039;s Lily, Wild Calla, Wild Arum) | <b>Scientific Names:</b> <i>Arum palestinum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-39 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/black-cherry">Black Cherry</a> () | <b>Scientific Names:</b> <i>Prunus serotina</i> | <b>Family:</b> Rosaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-40 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/black-laurel">Black Laurel</a> (Dog Hobble, Dog Laurel, Fetter Bush, Sierra Laurel) | <b>Scientific Names:</b> <i>Leucothoe spp.</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-41 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/black-nightshade">Black Nightshade</a> (Nightshade, Deadly Nightshade) | <b>Scientific Names:</b> <i>Solanum nigrum</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-42 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/bobbins">Bobbins</a> (Arum, Lord-and-Ladies, Adam-and-Eve, Starch Root, Wake Robin, Cuckoo Plant) | <b>Scientific Names:</b> <i>Arum maculatum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-43 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/bog-laurel">Bog Laurel</a> (Pale Laurel, Bog Kalmia) | <b>Scientific Names:</b> <i>Kalmia poliifolia</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-44 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/borage">Borage</a> (Starflower) | <b>Scientific Names:</b> <i>Borage officinalis</i> | <b>Family:</b> Boraginceae </span>  </div>  </div>
+
+  <div class="views-row views-row-45 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/boxwood">Boxwood</a> () | <b>Scientific Names:</b> <i>Buxus spp.</i> | <b>Family:</b> Buxaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-46 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/branching-ivy">Branching Ivy</a> (English Ivy, Glacier Ivy, Needlepoint Ivy, Sweetheart Ivy, California Ivy) | <b>Scientific Names:</b> <i>Hedera helix</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-47 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/brazilwood">Brazilwood</a> (Bird of Paradise, Poinciana, Barbados Pride) | <b>Scientific Names:</b> <i>Poinciana gilliesii</i> | <b>Family:</b> Leguminosae </span>  </div>  </div>
+
+  <div class="views-row views-row-48 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/bread-and-butter-plant">Bread and Butter Plant</a> (Indian Borage, Spanish Thyme, Coleus, Maratha, Militini, East Indian Thyme) | <b>Scientific Names:</b> <i>Coleus ampoinicus</i> | <b>Family:</b> Labiatae </span>  </div>  </div>
+
+  <div class="views-row views-row-49 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/brunfelsia">Brunfelsia</a> (Yesterday, Today, Tomorrow, Kiss-Me-Quick, Lady-of-the-Night, Fransiscan Rain Tree) | <b>Scientific Names:</b> <i>Brunfelsia species</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-50 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/buckeye">Buckeye</a> (Horse Chestnut) | <b>Scientific Names:</b> <i>Aesculus spp</i> | <b>Family:</b> Hippocastanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-51 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/buckwheat">Buckwheat</a> () | <b>Scientific Names:</b> <i>Fagopyrum spp.</i> | <b>Family:</b> Polygonaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-52 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/buddhist-pine">Buddhist Pine</a> (Yew Pine, Japanese Yew, Southern Yew, Podocarpus) | <b>Scientific Names:</b> <i>Podocarpus macrophylla</i> | <b>Family:</b> Podocarpaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-53 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/burning-bush">Burning Bush</a> (Wahoo, Spindle Tree) | <b>Scientific Names:</b> <i>Euonymus atropurpurea</i> | <b>Family:</b> Celastraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-54 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/buttercup">Buttercup</a> (Butter Cress, Figwort) | <b>Scientific Names:</b> <i>Ranunculus spp.</i> | <b>Family:</b> Ranunculaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-55 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/butterfly-iris">Butterfly Iris</a> (Spuria Iris) | <b>Scientific Names:</b> <i>Iris spuria</i> | <b>Family:</b> Iridaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-56 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/caladium">Caladium</a> (Malanga, Elephant&#039;s Ears, Stoplight, Seagull, Mother-in-law Plant, Pink Cloud, Texas Wonder, Angel-Wings, Exposition, Candidum, Fancy-leaved Caladium) | <b>Scientific Names:</b> <i>Caladium hortulanum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-57 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/calamondin-orange">Calamondin Orange</a> () | <b>Scientific Names:</b> <i>Citrus mitis</i> | <b>Family:</b> Rutaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-58 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/california-ivy">California Ivy</a> (Branching Ivy, Glacier Ivy, Needlepoint Ivy, Sweetheart Ivy, English Ivy) | <b>Scientific Names:</b> <i>Hedera helix</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-59 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/calla-lily">Calla Lily</a> (Calla Lily, Pig Lily, White Arum, Trumpet Lily, Florist&#039;s Calla, Garden Calla, Arum Lily) | <b>Scientific Names:</b> <i>Zantedeschia aethiopica</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-60 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cape-jasmine">Cape Jasmine</a> (Gardenia) | <b>Scientific Names:</b> <i>Gardenia jasminoides</i> | <b>Family:</b> Rubiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-61 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/caraway">Caraway</a> (Meridian Fennel, Persian Cumin) | <b>Scientific Names:</b> <i>Carum carvi</i> | <b>Family:</b> Umbelliferae </span>  </div>  </div>
+
+  <div class="views-row views-row-62 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cardboard-cycad">Cardboard Cycad</a> () | <b>Scientific Names:</b> <i>Zamia furfuracea</i> | <b>Family:</b> Cycadaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-63 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cardboard-palm">Cardboard Palm</a> (cycads and zamias) | <b>Scientific Names:</b> <i>Zamia spp.</i> | <b>Family:</b> Cycadaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-64 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cardinal-flower">Cardinal Flower</a> (Lobelia, Indian Pink) | <b>Scientific Names:</b> <i>Lobelia cardinalis</i> | <b>Family:</b> Campanulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-65 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/carnation">Carnation</a> (Pinks, Wild Carnation, Sweet William) | <b>Scientific Names:</b> <i>Dianthus caryophyllus</i> | <b>Family:</b> Caryophyllaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-66 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/castor-bean-plant">Castor Bean Plant</a> (Castor Oil Plant, Mole Bean Plant, African Wonder Tree, Castor Bean) | <b>Scientific Names:</b> <i>Ricinus communis</i> | <b>Family:</b> Euphorbiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-67 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/catnip">Catnip</a> (Catswort, Catmint) | <b>Scientific Names:</b> <i>Nepeta cataria</i> | <b>Family:</b> Lamiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-68 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/ceriman">Ceriman</a> (Cutleaf Philodendron, Hurricane Plant, Swiss Cheese Plant, Mexican Breadfruit) | <b>Scientific Names:</b> <i>Monstera deliciosa</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-69 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chamomile">Chamomile</a> (Manzanilla, Garden Chamomile, Roman Chamomile, True Chamomile, Corn Feverfew, Barnyard Daisy, Ground-apple, Turkey-weed) | <b>Scientific Names:</b> <i>Anthemis nobilis</i> | <b>Family:</b> Compositae </span>  </div>  </div>
+
+  <div class="views-row views-row-70 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chandelier-plant">Chandelier Plant</a> (Mother-In-Law-Plant, Kalanchoe, Devils Backbone, Mother of Millions) | <b>Scientific Names:</b> <i>Kalanchoe tubiflora</i> | <b>Family:</b> Crassulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-71 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/charming-dieffenbachia">Charming Dieffenbachia</a> () | <b>Scientific Names:</b> <i>Dieffenbachia amoena</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-72 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cherry">Cherry</a> () | <b>Scientific Names:</b> <i>Prunus spp.</i> | <b>Family:</b> Rosaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-73 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chinaberry-tree">Chinaberry Tree</a> (Bead Tree, China Ball Tree, Paradise Tree, Persian Lilac, White Cedar, Japanese Bead Tree, Texas Umbrella Tree, Pride-of-India) | <b>Scientific Names:</b> <i>Melia azedarach</i> | <b>Family:</b> Meliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-74 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chinese-evergreen">Chinese Evergreen</a> () | <b>Scientific Names:</b> <i>Aglaonema modestum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-75 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chinese-jade">Chinese Jade</a> (Silver Jade Plant, Silver Dollar) | <b>Scientific Names:</b> <i>Crassula arborescens</i> | <b>Family:</b> Crassulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-76 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chives">Chives</a> () | <b>Scientific Names:</b> <i>Allium schoenoprasum</i> | <b>Family:</b> Amaryllidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-77 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/choke-cherry">Choke Cherry</a> () | <b>Scientific Names:</b> <i>Prunus virginiana</i> | <b>Family:</b> Rosaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-78 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/christmas-rose">Christmas Rose</a> (Hellebore, Lenten Rose, Easter Rose) | <b>Scientific Names:</b> <i>Helleborus niger</i> | <b>Family:</b> Ranunculaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-79 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chrysanthemum">Chrysanthemum</a> (Daisy, Mum; many varieties) | <b>Scientific Names:</b> <i>Chrysanthemum spp.</i> | <b>Family:</b> Compositae </span>  </div>  </div>
+
+  <div class="views-row views-row-80 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/clematis">Clematis</a> (Virgin’s Bower, Leatherflower) | <b>Scientific Names:</b> <i>Clematis spp.</i> | <b>Family:</b> Ranunculaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-81 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/climbing-bittersweet">Climbing Bittersweet</a> (Bittersweet, Waxwork, Shrubby Bittersweet, False Bittersweet, Climbing Bittersweet, American Bittersweet) | <b>Scientific Names:</b> <i>Celastrus scandens</i> | <b>Family:</b> Celastraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-82 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/climbing-lily">Climbing Lily</a> (Gloriosa Lily, Glory Lily, Superb Lily) | <b>Scientific Names:</b> <i>Gloriosa superba</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-83 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/climbing-nightshade">Climbing Nightshade</a> (European Bittersweet, Deadly Nightshade, Violet Bloom, Blue Nightshade, Soda Apple, Poisonous Nightshade, Felonwort, Devil&#039;s Apple, Scarlet Berry, Woody Nightshade, Blue Blindweed) | <b>Scientific Names:</b> <i>Solanum dulcamara</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-84 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/clivia-lily">Clivia Lily</a> (Kaffir Lily, Clivies, Caffre Lily, Cape Clivia, Klivia) | <b>Scientific Names:</b> <i>Clivia spp.</i> | <b>Family:</b> Amaryllidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-85 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/clusia-rosea">Clusia Rosea</a> (Clusia) | <b>Scientific Names:</b> <i>Clusia major</i> | <b>Family:</b> Clusiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-86 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/coffee-tree">Coffee Tree</a> (Wild Coffee, Geranium-Leaf Aralia) | <b>Scientific Names:</b> <i>Polyscias guilfoylei</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-87 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/coleus">Coleus</a> (Indian Borage, Bread and Butter Plant, Spanish Thyme, East Indian Thyme, Stinging Thyme, Country Boarage; many others) | <b>Scientific Names:</b> <i>Coleus ampoinicus</i> | <b>Family:</b> Labiatae </span>  </div>  </div>
+
+  <div class="views-row views-row-88 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/common-privet">Common Privet</a> (Privet, Amur, Wax-leaf) | <b>Scientific Names:</b> <i>Ligustrum vulgare</i> | <b>Family:</b> Oleaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-89 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/coontie-palm">Coontie Palm</a> (Sago Palm, Cardboard Palm, cycads and zamias) | <b>Scientific Names:</b> <i>Zamia pumila</i> | <b>Family:</b> Cycadaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-90 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cordatum">Cordatum</a> (Fiddle-Leaf, Horsehead Philodendron, Heartleaf Philodendron, Panda Plant, Split Leaf Philodendron, Fruit Salad Plant, Red Emerald, Red Princess, Saddle Leaf) | <b>Scientific Names:</b> <i>Philodendron oxycardium</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-91 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/corn-plant">Corn Plant</a> (Corn Plant, Cornstalk Plant, Dracaena, Dragon Tree, Ribbon Plant) | <b>Scientific Names:</b> <i>Dracaena fragrans</i> | <b>Family:</b> Asparagaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-92 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cornstalk-plant">Cornstalk Plant</a> (Corn Plant, Dracaena, Dragon Tree, Ribbon Plant) | <b>Scientific Names:</b> <i>Dracaena fragrans</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-93 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cow-parsnip">Cow parsnip</a> (Giant Hogweed) | <b>Scientific Names:</b> <i>Heracleum maximum</i> | <b>Family:</b> Apiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-94 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cowbane">Cowbane</a> (Water Hemlock, Poison Parsnip) | <b>Scientific Names:</b> <i>Cicuta species</i> | <b>Family:</b> Apiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-95 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cuckoo-pint">Cuckoo-pint</a> (Arum, Lord-and-Ladies, Adam-and-Eve, Starch Root, Bobbins, Wake Robin) | <b>Scientific Names:</b> <i>Arum maculatum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-96 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cutleaf-philodendron">Cutleaf Philodendron</a> (Hurricane Plant, Swiss Cheese Plant, Ceriman, Mexican Breadfruit, Split-leaf Philodendron, Window Leaf Plant) | <b>Scientific Names:</b> <i>Monstera deliciosa</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-97 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cycads">Cycads</a> (Sago Palm, Fern Palm) | <b>Scientific Names:</b> <i>Cycas and Zamia species</i> | <b>Family:</b> Cycadaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-98 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cyclamen">Cyclamen</a> (Sowbread) | <b>Scientific Names:</b> <i>Cyclamen spp</i> | <b>Family:</b> Primulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-99 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/daffodil">Daffodil</a> (Narcissus, Jonquil, Paper White) | <b>Scientific Names:</b> <i>Narcissus spp</i> | <b>Family:</b> Amaryllidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-100 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/dahlia">Dahlia</a> (Many varieties) | <b>Scientific Names:</b> <i>Dahlia species</i> | <b>Family:</b> Compositae </span>  </div>  </div>
+
+  <div class="views-row views-row-101 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/daisy">Daisy</a> (Chrysanthemum, Mum) | <b>Scientific Names:</b> <i>Chrysanthemum species</i> | <b>Family:</b> Compositae </span>  </div>  </div>
+
+  <div class="views-row views-row-102 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/day-lilies-many-varieties">Day Lilies (many varieties)</a> () | <b>Scientific Names:</b> <i>Hemerocallis spp.</i> | <b>Family:</b> Xanthorrhoeaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-103 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/deadly-nightshade">Deadly Nightshade</a> (Nightshade, Black Nightshade, European Bittersweet, Climbing Nightshade) | <b>Scientific Names:</b> <i>Solanum spp</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-104 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/desert-azalea">Desert Azalea</a> (Desert Rose, Mock Azalea, Sabi Star, Impala Lily, Kudu Lily) | <b>Scientific Names:</b> <i>Adenium obesum</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-105 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/desert-rose">Desert Rose</a> (Desert Azalea, Mock Azalea, Sabi Star, Impala Lily, Kudu Lily) | <b>Scientific Names:</b> <i>Adenium obesum</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-106 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/devils-backbone">Devil&#039;s Backbone</a> (Mother-In-Law-Plant, Kalanchoe, Chandelier Plant, Mother of Millions) | <b>Scientific Names:</b> <i>Kalanchoe tubiflora</i> | <b>Family:</b> Crassulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-107 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/devils-ivy">Devils Ivy</a> (Pothos, Golden Pothos, Taro Vine, Ivy Arum) | <b>Scientific Names:</b> <i>Epipremnum aureum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-108 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/dieffenbachia">Dieffenbachia</a> (Charming Dieffenbachia, Giant Dumb Cane, Tropic Snow, Dumbcane, Exotica, Spotted Dumb Cane, Exotica Perfection) | <b>Scientific Names:</b> <i>Dieffenbachia</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-109 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/dock">Dock</a> (Sorrel) | <b>Scientific Names:</b> <i>Rumex sp.</i> | <b>Family:</b> Polygonaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-110 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/dog-daisy">Dog Daisy</a> (Dog Fennel) | <b>Scientific Names:</b> <i>Achillea millefolium</i> | <b>Family:</b> Compositae </span>  </div>  </div>
+
+  <div class="views-row views-row-111 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/dog-hobble">Dog Hobble</a> (Dog Laurel, Fetter Bush, Black Laurel) | <b>Scientific Names:</b> <i>Leucothoe sp.</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-112 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/dogbane-hemp">Dogbane Hemp</a> (Bitterroot, Indian Hemp) | <b>Scientific Names:</b> <i>Apocynum spp.</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-113 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/dracaena">Dracaena</a> (Corn Plant, Cornstalk Plant, Dragon Tree, Ribbon Plant) | <b>Scientific Names:</b> <i>Dracaena spp.</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-114 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/dumbcane">Dumbcane</a> (Charming Dieffenbachia, Giant Dumb Cane, Tropic Snow, Exotica, Spotted Dumb Cane, Exotica Perfection, Dieffenbachia) | <b>Scientific Names:</b> <i>Dieffenbachia</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-115 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/dwarf-poinciana">Dwarf Poinciana</a> (Barbados Pride, Peacock Flower) | <b>Scientific Names:</b> <i>Caesalpinia pulcherrima</i> | <b>Family:</b> Fabaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-116 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/easter-lily">Easter Lily</a> () | <b>Scientific Names:</b> <i>Lilium longiflorum</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-117 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/easter-rose">Easter Rose</a> (Hellebore, Christmas Rose, Lenten Rose) | <b>Scientific Names:</b> <i>Helleborus niger</i> | <b>Family:</b> Ranunculaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-118 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/eastern-star">Eastern Star</a> () | <b>Scientific Names:</b> <i>Dianthus spp.</i> | <b>Family:</b> Caryophyllaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-119 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/elephant-ears">Elephant Ears</a> (Caladium, Taro, Pai, Ape, Cape, Via, Via sori, Malanga) | <b>Scientific Names:</b> <i>Caladium hortulanum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-120 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/elephant-ears-0">Elephant Ears</a> (Caladium, Malanga) | <b>Scientific Names:</b> <i>Colocasia esculenta</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-121 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/elephant-ear-begonia">Elephant-Ear Begonia</a> () | <b>Scientific Names:</b> <i>Begonia scharfii</i> | <b>Family:</b> Begoniaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-122 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/emerald-feather">Emerald Feather</a> (Emerald Fern, Asparagus, Asparagus fern, Sprengeri fern, Plumosa fern, Lace fern, Racemose asparagus, Shatavari) | <b>Scientific Names:</b> <i>Asparagus densiflorus</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-123 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/english-holly">English Holly</a> (European Holly, Oregon Holly, Inkberry, Winterberry, American Holly) | <b>Scientific Names:</b> <i>Ilex aquifolium</i> | <b>Family:</b> Aquifoliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-124 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/english-ivy">English Ivy</a> (Branching Ivy, Glacier Ivy, Needlepoint Ivy, Sweetheart Ivy, California Ivy) | <b>Scientific Names:</b> <i>Hedera helix</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-125 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/english-yew">English Yew</a> (Western Yew, Pacific Yew, Japanese Yew, Anglo-Japanese Yew) | <b>Scientific Names:</b> <i>Taxus baccata</i> | <b>Family:</b> Taxaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-126 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/epazote">Epazote</a> (Wormseed, Jusuit&#039;s Tea, Mexican Tea, Paico) | <b>Scientific Names:</b> <i>Chenopodium ambrosioides</i> | <b>Family:</b> Chenopodiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-127 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/eucalyptus">Eucalyptus</a> (Many cultivars) | <b>Scientific Names:</b> <i>Eucalyptus species</i> | <b>Family:</b> Myrtaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-128 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/european-bittersweet">European Bittersweet</a> (Climbing Nightshade, Deadly Nightshade) | <b>Scientific Names:</b> <i>Solanum dulcamara</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-129 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/european-holly">European Holly</a> (European Holly, Oregon Holly, Inkberry, Winterberry, American Holly, English Holly) | <b>Scientific Names:</b> <i>Ilex aquifolium</i> | <b>Family:</b> Aquifoliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-130 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/everlasting-pea">Everlasting Pea</a> (Sweet Pea, Perennial Pea) | <b>Scientific Names:</b> <i>Lathyrus latifolius</i> | <b>Family:</b> Fabaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-131 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/exotica">Exotica</a> (Charming Dieffenbachia, Giant Dumb Cane, Tropic Snow, Dumbcane, Spotted Dumb Cane, Exotica Perfection, Dieffenbachia) | <b>Scientific Names:</b> <i>Dieffenbachia amoena</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-132 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/false-bittersweet">False Bittersweet</a> (American Bittersweet) | <b>Scientific Names:</b> <i>Celastrus scandens</i> | <b>Family:</b> Celastraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-133 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/false-queen-annes-lace">False Queen Anne’s Lace</a> (Bishop&#039;s Weed, Greater Ammi) | <b>Scientific Names:</b> <i>Ammi majus</i> | <b>Family:</b> Apiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-134 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/feather-geranium">Feather Geranium</a> (Jerusalem Oak, Ambrosia Mexicana) | <b>Scientific Names:</b> <i>Ambrosia mexicana</i> | <b>Family:</b> Chenopodiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-135 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/fern-palm">Fern Palm</a> (Sago Palm, Cycads) | <b>Scientific Names:</b> <i>Zamia spp.</i> | <b>Family:</b> Cycadaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-136 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/fetter-bush">Fetter Bush</a> (Dog Laurel, Dog Hobble, Black Laurel) | <b>Scientific Names:</b> <i>Leucothoe spp.</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-137 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/fetterbush">Fetterbush</a> (Staggerberry, Maleberry) | <b>Scientific Names:</b> <i>Lyonia spp.</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-138 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/fiddle-leaf">Fiddle-Leaf</a> (Horsehead Philodendron, Cordatum, Heartleaf Philodendron, Panda Plant, Split Leaf Philodendron, Fruit Salad Plant, Red Emerald, Red Princess, Saddle Leaf) | <b>Scientific Names:</b> <i>Philodendron bipennifolium</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-139 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/fig">Fig</a> (Weeping Fig, Indian Rubber Plant) | <b>Scientific Names:</b> <i>Ficus benjamina</i> | <b>Family:</b> Moraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-140 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/figwort">Figwort</a> (Buttercup, Butter Cress, Burwort, Crowfoot burwort) | <b>Scientific Names:</b> <i>Ranunculus acris</i> | <b>Family:</b> Ranunculaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-141 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/fire-lily">Fire Lily</a> (Amaryllis, Barbados Lily, Lily of the Palace, Ridderstjerne) | <b>Scientific Names:</b> <i>Hippeastrum spp.</i> | <b>Family:</b> Amaryllidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-142 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/flag">Flag</a> (Iris, Snake Lily, Water Flag) | <b>Scientific Names:</b> <i>Iris species</i> | <b>Family:</b> Iridaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-143 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/flamingo-flower">Flamingo Flower</a> (Flamingo Lily, Tail Flower, Oilcloth Flower, Pigtail Plant, Painter&#039;s Pallet) | <b>Scientific Names:</b> <i>Anthurium scherzeranum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-144 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/fleabane">Fleabane</a> (Showy Daisy, Horseweed, Seaside Daisy) | <b>Scientific Names:</b> <i>Erigeron speciosus</i> | <b>Family:</b> Asteraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-145 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/florida-beauty">Florida Beauty</a> (Gold Dust Dracaena, Spotted Dracaena) | <b>Scientific Names:</b> <i>Dracaena surculosa</i> | <b>Family:</b> Asparagaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-146 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/florists-calla">Florist&#039;s Calla</a> (Calla Lily, Pig Lily, White Arum, Trumpet Lily, Arum Lily, Garden Calla, Arum Lily) | <b>Scientific Names:</b> <i>Zantedeschia aethiopica</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-147 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/foxglove">Foxglove</a> () | <b>Scientific Names:</b> <i>Digitalis purpurea</i> | <b>Family:</b> Scrophalariaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-148 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/franciscan-rain-tree">Franciscan Rain Tree</a> (Yesterday, Today, Tomorrow, Lady-of-the-Night, Morning-Noon-and-Night, Kiss-Me-Quick) | <b>Scientific Names:</b> <i>Brunfelsia species</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-149 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/garden-calla">Garden Calla</a> (Calla Lily, Pig Lily, White Arum, Trumpet Lily, Florist&#039;s Calla, Arum Lily) | <b>Scientific Names:</b> <i>Zantedeschia aethiopica</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-150 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/garden-chamomile">Garden Chamomile</a> (Chamomile, Ground Apple, Roman Chamomile) | <b>Scientific Names:</b> <i>Anthemis nobilis</i> | <b>Family:</b> Asteraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-151 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/garden-hyacinth">Garden Hyacinth</a> (Hyacinth) | <b>Scientific Names:</b> <i>Hyacinthus orientalis</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-152 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/gardenia">Gardenia</a> (Cape Jasmine) | <b>Scientific Names:</b> <i>Gardenia jasminoides</i> | <b>Family:</b> Rubiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-153 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/garlic">Garlic</a> (Stinking Rose, Rustic Treacle, Camphor of the Poor, Nectar of the Gods, Serpent Garlic, Rocambole) | <b>Scientific Names:</b> <i>Allium sativum</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-154 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/geranium">Geranium</a> (Many cultivars) | <b>Scientific Names:</b> <i>Pelargonium species</i> | <b>Family:</b> Geraniaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-155 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/geranium-leaf-aralia">Geranium-Leaf Aralia</a> (Wild Coffee, Coffee Tree) | <b>Scientific Names:</b> <i>Polyscias guilfoylei</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-156 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/giant-dracaena">Giant Dracaena</a> (Palm Lily, Grass Palm) | <b>Scientific Names:</b> <i>Cordyline australis</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-157 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/giant-dumb-cane">Giant Dumb Cane</a> (Charming Dieffenbachia, Tropic Snow, Dumbcane, Exotica, Spotted Dumb Cane, Exotica Perfection, Dieffenbachia) | <b>Scientific Names:</b> <i>Dieffenbachia amoena</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-158 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/giant-hogweed">Giant Hogweed</a> (Cow Parsnip) | <b>Scientific Names:</b> <i>Heracleum maximum</i> | <b>Family:</b> Apiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-159 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/glacier-ivy">Glacier Ivy</a> (English Ivy, Branching Ivy, Needlepoint Ivy, Sweetheart Ivy, California Ivy) | <b>Scientific Names:</b> <i>Hedera helix</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-160 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/gladiola">Gladiola</a> (Many cultivars) | <b>Scientific Names:</b> <i>Gladiolus species</i> | <b>Family:</b> Iridaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-161 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/gloriosa-lily">Gloriosa Lily</a> (Glory Lily, Climbing Lily, Superb Lily) | <b>Scientific Names:</b> <i>Gloriosa superba</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-162 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/gold-dieffenbachia">Gold Dieffenbachia</a> () | <b>Scientific Names:</b> <i>Dieffenbachia picta</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-163 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/gold-dust-dracaena">Gold Dust Dracaena</a> (Florida Beauty) | <b>Scientific Names:</b> <i>Dracaena surculosa</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-164 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/golden-birds-nest">Golden Birds Nest</a> (Snake Plant, Mother-in-Law’s Tongue, Good Luck Plant) | <b>Scientific Names:</b> <i>Sansevieria trifasciata</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-165 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/golden-pothos">Golden Pothos</a> (Pothos, Devil&#039;s Ivy, Taro Vine, Ivy Arum) | <b>Scientific Names:</b> <i>Epipremnum aureum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-166 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/golden-ragwort">Golden Ragwort</a> (Ragwort) | <b>Scientific Names:</b> <i>Senecio species</i> | <b>Family:</b> Compositae </span>  </div>  </div>
+
+  <div class="views-row views-row-167 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/good-luck-plant">Good Luck Plant</a> (Shamrock Plant, Sorrel) | <b>Scientific Names:</b> <i>Oxalis spp.</i> | <b>Family:</b>  </span>  </div>  </div>
+
+  <div class="views-row views-row-168 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/grapefruit">Grapefruit</a> () | <b>Scientific Names:</b> <i>Citrus paradisii</i> | <b>Family:</b> Rutaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-169 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/grass-palm">Grass Palm</a> (Giant Dracaena, Palm Lily) | <b>Scientific Names:</b> <i>Cordyline australis</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-170 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/greater-ammi">Greater Ammi</a> (Bishop&#039;s Weed, False Queen Anne&#039;s Lace) | <b>Scientific Names:</b> <i>Ammi majus</i> | <b>Family:</b> Apiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-171 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/green-gold-naphthysis">Green Gold Naphthysis</a> (Nephthytis, Arrow-Head Vine) | <b>Scientific Names:</b> <i>Syngonium podophyllum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-172 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/ground-apple">Ground Apple</a> (Chamomile, Garden Chamomile, Roman Chamomile) | <b>Scientific Names:</b> <i>Anthemis nobilis</i> | <b>Family:</b> Asteraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-173 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/groundsel">Groundsel</a> (Ragwort, Senecio) | <b>Scientific Names:</b> <i>Senecio species</i> | <b>Family:</b> Compositae </span>  </div>  </div>
+
+  <div class="views-row views-row-174 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hahns-self-branching-english-ivy">Hahn&#039;s Self Branching English Ivy</a> (Branching Ivy, Glacier Ivy, Needlepoint Ivy, Sweetheart Ivy, California Ivy, English Ivy) | <b>Scientific Names:</b> <i>Hedera helix</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-175 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hashish">Hashish</a> (Marijuana, Indian Hemp) | <b>Scientific Names:</b> <i>Cannabis sativa</i> | <b>Family:</b> Cannabaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-176 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hawaiian-ti">Hawaiian Ti</a> (Snake Plant, Giant Dracaena) | <b>Scientific Names:</b> <i>Giant Dracaena</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-177 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/heartleaf-philodendron">Heartleaf Philodendron</a> (Horsehead Philodendron, Cordatum, Fiddle-Leaf, Panda Plant, Split Leaf Philodendron, Fruit Salad Plant, Red Emerald, Red Princess, Saddle Leaf) | <b>Scientific Names:</b> <i>Philodendron bipennifolium</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-178 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/heavenly-bamboo">Heavenly Bamboo</a> (Sacred Bamboo, Nandina) | <b>Scientific Names:</b> <i>Nandina domestica</i> | <b>Family:</b> Berberidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-179 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hellebore">Hellebore</a> (Christmas Rose, Lenten Rose, Easter Rose) | <b>Scientific Names:</b> <i>Helleborus niger</i> | <b>Family:</b> Ranunculaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-180 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hercules-club">Hercules&#039; Club</a> (Angelica Tree, Devil&#039;s Walking Stick, Prickly Ash, Prickly Elder) | <b>Scientific Names:</b> <i>Aralia spinosa</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-181 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hills-snow">Hills of Snow</a> (Hydrangea, Hortensia, Seven Bark) | <b>Scientific Names:</b> <i>Hydrangea arborescens</i> | <b>Family:</b> Hydrangeaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-182 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/holly">Holly</a> (English Holly, European Holly, Oregon Holly, Inkberry, Winterberry, American Holly) | <b>Scientific Names:</b> <i>Ilex opaca</i> | <b>Family:</b> Aquifoliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-183 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/horse-chestnut">Horse Chestnut</a> (Buckeye) | <b>Scientific Names:</b> <i>Aesculus glabra</i> | <b>Family:</b> Hippocastanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-184 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/horsehead-philodendron">Horsehead Philodendron</a> (Fiddle-Leaf, Cordatum, Heartleaf Philodendron, Panda Plant, Split Leaf Philodendron, Fruit Salad Plant, Red Emerald, Red Princess, Saddle Leaf) | <b>Scientific Names:</b> <i>Philodendron bipennifolium</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-185 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/horseweed">Horseweed</a> (Showy Daisy, Fleabane, Seaside Daisy) | <b>Scientific Names:</b> <i>Erigeron speciosus</i> | <b>Family:</b> Asteraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-186 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hortensia">Hortensia</a> (Hydrangea, Hills of Snow, Seven Bark) | <b>Scientific Names:</b> <i>Hydrangea arborescens</i> | <b>Family:</b> Hydrangeaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-187 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hosta">Hosta</a> (Plantain Lily, Funkia) | <b>Scientific Names:</b> <i>Hosta plataginea</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-188 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hurricane-plant">Hurricane Plant</a> (Cutleaf Philodendron, Swiss Cheese Plant, Ceriman, Mexican Breadfruit) | <b>Scientific Names:</b> <i>Monstera deliciosa</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-189 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hyacinth">Hyacinth</a> () | <b>Scientific Names:</b> <i>Hyacinthus orientalis</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-190 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hydrangea">Hydrangea</a> (Hortensia, Hills of Snow, Seven Bark) | <b>Scientific Names:</b> <i>Hydrangea arborescens</i> | <b>Family:</b> Hydrangeaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-191 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/impala-lily">Impala Lily</a> (Desert Rose, Mock Azalea, Sabi Star, Desert Azalea, Kudu Lily) | <b>Scientific Names:</b> <i>Adenium obesum</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-192 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/inch-plant">Inch Plant</a> (Speedy Henry) | <b>Scientific Names:</b> <i>Tradescantia flumeninsis</i> | <b>Family:</b> Commelinaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-193 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/indian-apple">Indian Apple</a> (Mayapple, Indian Apple Root, Umbrella Leaf, Wild Lemon, Hog Apple, Duck&#039;s Foot, Raccoonberry, American Mandrake) | <b>Scientific Names:</b> <i>Podophyllum peltatum</i> | <b>Family:</b> Berberidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-194 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/indian-borage">Indian Borage</a> (Bread and Butter Plant, Country Borage, Spanish Thyme, Coleus, Maratha, Militini, East Indian Thyme) | <b>Scientific Names:</b> <i>Coleus ampoinicus</i> | <b>Family:</b> Labiatae </span>  </div>  </div>
+
+  <div class="views-row views-row-195 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/indian-hemp">Indian Hemp</a> (Dogbane Hemp, Bitter Root) | <b>Scientific Names:</b> <i>Apocynum androsaemifolium</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-196 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/indian-hemp-0">Indian Hemp</a> (Marijuana, Hashish) | <b>Scientific Names:</b> <i>Cannabis sativa</i> | <b>Family:</b> Cannabaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-197 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/indian-pink">Indian Pink</a> (Lobelia, Cardinal Flower) | <b>Scientific Names:</b> <i>Lobelia cardinalis</i> | <b>Family:</b> Campanulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-198 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/indian-rubber-plant">Indian Rubber Plant</a> (Fig, Weeping Fig) | <b>Scientific Names:</b> <i>Ficus benjamina</i> | <b>Family:</b> Moraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-199 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/inkberry">Inkberry</a> (English Holly, European Holly, Oregon Holly, American Holly, Winterberry) | <b>Scientific Names:</b> <i>Ilex opaca</i> | <b>Family:</b> Aquifoliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-200 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/iris">Iris</a> (Flag, Snake Lily, Water Flag) | <b>Scientific Names:</b> <i>Iris species</i> | <b>Family:</b> Iridaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-201 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/iron-cross-begonia">Iron Cross Begonia</a> () | <b>Scientific Names:</b> <i>Begonia masoniana</i> | <b>Family:</b>  </span>  </div>  </div>
+
+  <div class="views-row views-row-202 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/ivy-arum">Ivy Arum</a> (Pothos, Golden Pothos, Taro Vine, Devil&#039;s Ivy) | <b>Scientific Names:</b> <i>Epipremnum aureum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-203 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jack-pulpit">Jack-in-the-pulpit</a> (Three-leaved indian turnip, Devil&#039;s dear, Wake robin, Starch wort, Wild turnip, Dragon root, Bog onion, Pepper turnip, Brown dragon, Memory root) | <b>Scientific Names:</b> <i>Arisaema triphyllum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-204 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant">Jade Plant</a> (Baby Jade, Dwarf rubber plant, Jade tree, Chinese rubber plant, Japanese rubber plant) | <b>Scientific Names:</b> <i>Crassula argentea</i> | <b>Family:</b> Crassulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-205 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/japanese-show-lily">Japanese Show Lily</a> () | <b>Scientific Names:</b> <i>Lilium speciosum</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-206 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/japanese-yew">Japanese Yew</a> (English Yew, Western Yew, Pacific Yew, Anglo-Japanese Yew) | <b>Scientific Names:</b> <i>Taxus sp.</i> | <b>Family:</b> Taxaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-207 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jerusalem-cherry">Jerusalem Cherry</a> (Natal cherry, Winter cherry) | <b>Scientific Names:</b> <i>Solanum pseudocapsicum</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-208 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jerusalem-oak">Jerusalem Oak</a> (Feather Geranium, Ambrosia Mexicana) | <b>Scientific Names:</b> <i>Ambrosia mexicana</i> | <b>Family:</b> Chenopodiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-209 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jonquil">Jonquil</a> (Daffodil, Narcissus, Paper White) | <b>Scientific Names:</b> <i>Narcissus jonquilla</i> | <b>Family:</b> Amaryllidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-210 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/kaffir-lily">Kaffir Lily</a> (Clivia Lily) | <b>Scientific Names:</b> <i>Clivia minata</i> | <b>Family:</b> Amaryllidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-211 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/kalanchoe">Kalanchoe</a> (Mother-In-Law-Plant, Devils Backbone, Chandelier Plant, Mother of Millions) | <b>Scientific Names:</b> <i>Kalanchoe spp</i> | <b>Family:</b> Crassulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-212 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/kiss-me-quick">Kiss-me-quick</a> (Yesterday, Today, Tomorrow, Lady-of-the-Night, Morning-Noon-and-Night, Fransiscan Rain Tree) | <b>Scientific Names:</b> <i>Brunfelsia species</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-213 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/klamath-weed">Klamath Weed</a> (St. John&#039;s Wort) | <b>Scientific Names:</b> <i>Hypericum perforatum</i> | <b>Family:</b> Clusiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-214 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/kudu-lily">Kudu Lily</a> (Desert Azalea, Mock Azalea, Sabi Star, Impala Lily, Desert Rose) | <b>Scientific Names:</b> <i>Adenium obesum</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-215 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lace-fern">Lace Fern</a> (Asparagus, Emerald Feather, Emerald Fern, Sprengeri Fern, Plumosa Fern, Asparagus Fern, Racemose Asparagus, Shatavari) | <b>Scientific Names:</b> <i>Asparagus densiflorus cv sprengeri</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-216 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lacy-tree-philodendron">Lacy Tree Philodendron</a> () | <b>Scientific Names:</b> <i>Philodendron selloum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-217 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lady-night">Lady-of-the-night</a> (Yesterday, Today, Tomorrow, Kiss-Me-Quick, Morning-Noon-and-Night, Fransiscan Rain Tree) | <b>Scientific Names:</b> <i>Brunfelsia species</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-218 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lambkill">Lambkill</a> (Sheep Laurel) | <b>Scientific Names:</b> <i>Kalmia augustifolia</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-219 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lantana">Lantana</a> (Shrub Verbena, Yellow Sage, Red Sage) | <b>Scientific Names:</b> <i>Lantana camara</i> | <b>Family:</b> Verbenaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-220 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/larkspur">Larkspur</a> () | <b>Scientific Names:</b> <i>Delphinium species</i> | <b>Family:</b> Ranunculaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-221 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/laurel">Laurel</a> (Mountain laurel, Spoonwood, Mountain Ivy, Calico Bush, Ivy Bush) | <b>Scientific Names:</b> <i>Kalmia latifolia</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-222 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lavender">Lavender</a> (Common Lavender, English Lavender) | <b>Scientific Names:</b> <i>Lavendula angustifolia</i> | <b>Family:</b> Lamiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-223 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/leatherflower">Leatherflower</a> (Clematis, Virgin&#039;s Bower) | <b>Scientific Names:</b> <i>Clematis sp.</i> | <b>Family:</b> Ranunculaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-224 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/leek">Leek</a> (Elephant Garlic) | <b>Scientific Names:</b> <i>Allium ampeloprasum</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-225 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lemon">Lemon</a> () | <b>Scientific Names:</b> <i>Citrus limonia</i> | <b>Family:</b> Rutaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-226 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lemon-grass">Lemon Grass</a> (Oil Grass) | <b>Scientific Names:</b> <i>Cymbopogon citratus</i> | <b>Family:</b> Poaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-227 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lemon-verbena">Lemon Verbena</a> (Lemon Beebrush) | <b>Scientific Names:</b> <i>Aloysia triphylla</i> | <b>Family:</b> Verbenaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-228 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lenten-rose">Lenten Rose</a> (Hellebore, Christmas Rose, Easter Rose) | <b>Scientific Names:</b> <i>Helleborus niger</i> | <b>Family:</b> Ranunculaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-229 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lily">Lily</a> () | <b>Scientific Names:</b> <i>Lilium species</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-230 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lily-palace">Lily of the Palace</a> (Amaryllis, Fire Lily, Barbados Lily, Ridderstjerne) | <b>Scientific Names:</b> <i>Hippeastrum spp.</i> | <b>Family:</b> Amaryllidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-231 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lily-valley">Lily of the Valley</a> () | <b>Scientific Names:</b> <i>Convallaria majalis</i> | <b>Family:</b> Asparagaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-232 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lily-valley-bush">Lily-of-the-Valley Bush</a> (Andromeda Japonica, Pieris) | <b>Scientific Names:</b> <i>Pieris japonica</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-233 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lime">Lime</a> () | <b>Scientific Names:</b> <i>Citrus aurantifolia</i> | <b>Family:</b> Rutaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-234 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lobelia">Lobelia</a> (Cardinal Flower, Indian Pink) | <b>Scientific Names:</b> <i>Lobelia cardinalis</i> | <b>Family:</b> Campanulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-235 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/locust">Locust</a> () | <b>Scientific Names:</b> <i>Robinia spp.</i> | <b>Family:</b> Mimosaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-236 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lord-and-ladies">Lord-and-Ladies</a> (Arum, Wake Robin, Adam-and-Eve, Starch Root, Bobbins, Cuckoo Plant) | <b>Scientific Names:</b> <i>Arum maculatum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-237 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lovage">Lovage</a> (Maggi plant, Smellage) | <b>Scientific Names:</b> <i>Levisticum officinale</i> | <b>Family:</b> Apiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-238 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/madagascar-dragon-tree">Madagascar Dragon Tree</a> () | <b>Scientific Names:</b> <i>Dracaena marginata</i> | <b>Family:</b> Asparagaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-239 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/maidens-breath">Maidens Breath</a> (Baby&#039;s Breath) | <b>Scientific Names:</b> <i>Gypsophila elegans</i> | <b>Family:</b> Caryophyllaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-240 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/malanga">Malanga</a> (Caladium, Elephant&#039;s Ears) | <b>Scientific Names:</b> <i>Colocasia esculenta</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-241 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/maleberry">Maleberry</a> (Staggerbush, Fetterbush) | <b>Scientific Names:</b> <i>Lyonia sp.</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-242 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mapleleaf-begonia">Mapleleaf Begonia</a> () | <b>Scientific Names:</b> <i>Begonia cleopatra</i> | <b>Family:</b> Begoniaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-243 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/marble-queen">Marble Queen</a> (Golden Pothos) | <b>Scientific Names:</b> <i>Scindapsus aureus</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-244 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/marijuana">Marijuana</a> (Indian Hemp, Hashish) | <b>Scientific Names:</b> <i>Cannabis sativa</i> | <b>Family:</b> Cannabaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-245 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/marjoram">Marjoram</a> (Knotted Marjoram, Pot Marjoram) | <b>Scientific Names:</b> <i>Origanum majorana</i> | <b>Family:</b> Lamiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-246 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mauna-loa-peace-lily">Mauna Loa Peace Lily</a> (Peace Lily) | <b>Scientific Names:</b> <i>Spathiphyllum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-247 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mayapple">Mayapple</a> (Indian Apple Root, Umbrella Leaf, Wild Lemon, Hog Apple, Duck&#039;s Foot, Raccoonberry, American Mandrake) | <b>Scientific Names:</b> <i>Podophyllum peltatum</i> | <b>Family:</b> Berberidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-248 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mayweed">Mayweed</a> (Poison Daisy, Stinking Chamomile) | <b>Scientific Names:</b> <i>Anthemis cotula</i> | <b>Family:</b> Asteraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-249 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/meadow-saffron">Meadow Saffron</a> (Autumn Crocus) | <b>Scientific Names:</b> <i>Colchicum autumnale</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-250 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/medicine-plant">Medicine Plant</a> (Aloe, True Aloe, Barbados Aloe) | <b>Scientific Names:</b> <i></i> | <b>Family:</b> Aloaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-251 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/metallic-leaf-begonia">Metallic Leaf Begonia</a> () | <b>Scientific Names:</b> <i>Begonia metallica</i> | <b>Family:</b> Begoniaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-252 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mexican-breadfruit">Mexican Breadfruit</a> (Cutleaf Philodendron, Hurricane Plant, Swiss Cheese Plant, Ceriman, Split-leaf Philodendron, Window Leaf Plant) | <b>Scientific Names:</b> <i>Monstera deliciosa</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-253 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/milfoil">Milfoil</a> (Yarrow) | <b>Scientific Names:</b> <i>Achillea millefolium</i> | <b>Family:</b> Asteraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-254 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/milkweed">Milkweed</a> () | <b>Scientific Names:</b> <i>Asclepias species</i> | <b>Family:</b> Asclepiadaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-255 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mint">Mint</a> (Garden Mint) | <b>Scientific Names:</b> <i>Mentha sp.</i> | <b>Family:</b> Lamiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-256 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mistletoe-american">Mistletoe &quot;American&quot;</a> (American Mistletoe) | <b>Scientific Names:</b> <i>Phoradendron flavescens</i> | <b>Family:</b> Viscaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-257 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mock-azalea">Mock Azalea</a> (Desert Rose, Desert Azalea, Sabi Star, Impala Lily, Kudu Lily) | <b>Scientific Names:</b> <i>Adenium obesum</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-258 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mole-bean-plant">Mole Bean Plant</a> () | <b>Scientific Names:</b> <i>Ricinus communis</i> | <b>Family:</b> Euphobiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-259 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/morning-glory">Morning Glory</a> () | <b>Scientific Names:</b> <i>Ipomoea spp</i> | <b>Family:</b> Convolvulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-260 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/morning-noon-and-night">Morning-Noon-and-Night</a> (Yesterday, Today, Tomorrow, Kiss-Me-Quick, Lady-of-the-Night, Fransiscan Rain Tree) | <b>Scientific Names:</b> <i>Brunfelsia species</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-261 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/moss-rose">Moss Rose</a> (Wild Portulaca, Rock Moss, Purslane, Pigwee, Pusley) | <b>Scientific Names:</b> <i>Portulaca oleracea</i> | <b>Family:</b> Portulacaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-262 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mother-millions">Mother of Millions</a> (Mother-In-Law-Plant, Kalanchoe, Devils Backbone, Chandelier Plant) | <b>Scientific Names:</b> <i>Kalanchoe tubiflora</i> | <b>Family:</b> Crassulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-263 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mother-law">Mother-in-Law</a> () | <b>Scientific Names:</b> <i>Monstera deliciosa</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-264 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mother-law-plant">Mother-In-Law Plant</a> (Mother of Millions, Kalanchoe, Devils Backbone, Chandelier Plant) | <b>Scientific Names:</b> <i>Kalanchoe tubiflora</i> | <b>Family:</b> Crassulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-265 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mother-laws-tongue">Mother-in-Law’s Tongue</a> (Snake Plant, Golden Bird&#039;s Nest, Good Luck Plant) | <b>Scientific Names:</b> <i>Sansevieria trifasciata</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-266 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mum">Mum</a> (Chrysanthemum, Daisy) | <b>Scientific Names:</b> <i>Chrysanthemum spp.</i> | <b>Family:</b> Compositae </span>  </div>  </div>
+
+  <div class="views-row views-row-267 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/naked-lady">Naked Lady</a> () | <b>Scientific Names:</b> <i>Amaryllis spp.</i> | <b>Family:</b> Amaryllidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-268 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/nandina">Nandina</a> (Sacred Bamboo, Heavenly Bamboo) | <b>Scientific Names:</b> <i>Nandina domestica</i> | <b>Family:</b> Berberidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-269 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/narcissus">Narcissus</a> (Daffodil, Jonquil, Paper White) | <b>Scientific Names:</b> <i>Narcissus spp</i> | <b>Family:</b> Amaryllidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-270 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/nasturtium-watercress">Nasturtium (Watercress)</a> (Watercress, Brunnenkress) | <b>Scientific Names:</b> <i>Nasturtium officinale</i> | <b>Family:</b> Brassicaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-271 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/needlepoint-ivy">Needlepoint Ivy</a> (Branching Ivy, Glacier Ivy, English Ivy, Sweetheart Ivy, California Ivy) | <b>Scientific Names:</b> <i>Hedera helix</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-272 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/nephthytis">Nephthytis</a> (Arrow-Head Vine, Green Gold Naphthysis, African Evergreen, Trileaf Wonder) | <b>Scientific Names:</b> <i>Syngonium podophyllum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-273 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/nicotiana">Nicotiana</a> (Tree Tobacco, Tobacco, Mustard Tree) | <b>Scientific Names:</b> <i>Nicotiana glauca</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-274 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/nightshade">Nightshade</a> (Deadly Nightshade, Black Nightshade) | <b>Scientific Names:</b> <i>Solanum spp</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-275 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/octopus-tree">Octopus Tree</a> (Schefflera, Umbrella Tree, Australian Ivy Palm, Starleaf) | <b>Scientific Names:</b> <i>Schefflera or Brassia actinoplylla</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-276 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/oilcloth-flower">Oilcloth Flower</a> (Flamingo Plant, Flamingo Lily, Tail Flower, Pigtail Plant, Flamingo Flower, Painter&#039;s Pallet) | <b>Scientific Names:</b> <i>Anthurium scherzeranum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-277 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/oleander">Oleander</a> (Rose-Bay) | <b>Scientific Names:</b> <i>Nerium oleander</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-278 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/onion">Onion</a> () | <b>Scientific Names:</b> <i>Allium cepa</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-279 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/orange">Orange</a> () | <b>Scientific Names:</b> <i>Citrus sinensis</i> | <b>Family:</b> Rutaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-280 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/orange-day-lily">Orange Day Lily</a> () | <b>Scientific Names:</b> <i>Hemerocallis graminea</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-281 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/oregano">Oregano</a> (Greek Oregano) | <b>Scientific Names:</b> <i>Origanum vulgare hirtum</i> | <b>Family:</b> Lamiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-282 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/oregon-holly">Oregon Holly</a> (English Holly, European Holly, Inkberry, American Holly, Winterberry) | <b>Scientific Names:</b> <i>Ilex opaca</i> | <b>Family:</b> Aquifoliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-283 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/ornamental-pepper">Ornamental Pepper</a> (Natal Cherry, Winter Cherry, Jerusalem Cherry) | <b>Scientific Names:</b> <i>Solanum pseudocapsicum</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-284 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pacific-yew">Pacific Yew</a> (English Yew, Western Yew, Japanese Yew, Anglo-Japanese Yew) | <b>Scientific Names:</b> <i>Taxus brevifolia</i> | <b>Family:</b> Taxaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-285 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/painters-pallette">Painter&#039;s Pallette</a> (Flamingo Plant, Flamingo Lily, Tail Flower, Oilcloth Flower, Pigtail Plant, Flamingo Flower) | <b>Scientific Names:</b> <i>Anthurium scherzeranum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-286 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/palm-lily">Palm Lily</a> (Giant Dracaena, Grass palm) | <b>Scientific Names:</b> <i>Cordyline australis</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-287 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/panda-plant">Panda Plant</a> (Horsehead Philodendron, Cordatum, Heartleaf Philodendron, Panda Plant, Split Leaf Philodendron, Fruit Salad Plant, Red Emerald, Red Princess, Saddle Leaf , Fiddle-leaf) | <b>Scientific Names:</b> <i>Philodendron bipennifolium</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-288 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/paper-white">Paper White</a> (Daffodil, Jonquil, Narcissus) | <b>Scientific Names:</b> <i>Narcissus spp</i> | <b>Family:</b> Amaryllidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-289 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/paraguayan-jasmine">Paraguayan Jasmine</a> (Yesterday, Today, Tomorrow, Lady-of-the-Night, Morning-Noon-and-Night, Kiss-Me-Quick , Fransiscan Rain Tree) | <b>Scientific Names:</b> <i>Brunfelsia species</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-290 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/parsley">Parsley</a> (Italian Parsley, Hamburg Parsley, Turnip-rooted Parsley) | <b>Scientific Names:</b> <i>Petroselinum crispum</i> | <b>Family:</b> Apiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-291 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/peace-begonia">Peace Begonia</a> () | <b>Scientific Names:</b> <i>Begonia rex &#039;peace&#039;</i> | <b>Family:</b> Begoniaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-292 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/peace-lily">Peace Lily</a> (Mauna Loa Peace Lily) | <b>Scientific Names:</b> <i>Spathiphyllum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-293 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/peach">Peach</a> (Similar plants: Plum, Apricot, Cherry) | <b>Scientific Names:</b> <i>Prunus persica</i> | <b>Family:</b> Rosaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-294 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/peacock-flower">Peacock Flower</a> (Barbados Pride, Dwarf Poinciana) | <b>Scientific Names:</b> <i>Caesalpinia pulcherrima</i> | <b>Family:</b> Fabaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-295 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pencil-cactus">Pencil Cactus</a> (Sticks of Fire) | <b>Scientific Names:</b> <i>Euphorbia tirucalli</i> | <b>Family:</b> Euphorbiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-296 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/peony">Peony</a> () | <b>Scientific Names:</b> <i>Paeonis officinalis</i> | <b>Family:</b> Paeniaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-297 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/perennial-pea">Perennial Pea</a> (Sweet Pea, Everlasting Pea) | <b>Scientific Names:</b> <i>Lathyrus latifolius</i> | <b>Family:</b> Fabaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-298 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/periwinkle">Periwinkle</a> (Running Myrtle. Vinca) | <b>Scientific Names:</b> <i>Vinca rosea</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-299 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/philodendron-pertusum">Philodendron Pertusum</a> () | <b>Scientific Names:</b> <i>Philodendron spp</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-300 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pie-plant">Pie Plant</a> (Rhubarb) | <b>Scientific Names:</b> <i>Rheum rhabarbarium</i> | <b>Family:</b> Polygonaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-301 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pieris">Pieris</a> (Lily-of-the-Valley Bush, Andromeda Japonica, Fetterbush) | <b>Scientific Names:</b> <i>Pieris japonica</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-302 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pig-lily">Pig Lily</a> (Calla Lily, Arum Lily, White Arum, Trumpet Lily, Florist&#039;s Calla, Garden Calla) | <b>Scientific Names:</b> <i>Zantedeschia aethiopica</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-303 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pigtail-plant">Pigtail Plant</a> (Flamingo Plant, Flamingo Lily, Tail Flower, Oilcloth Flower, Painter&#039;s Pallet, Flamingo Flower) | <b>Scientific Names:</b> <i>Anthurium scherzeranum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-304 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pink-pearl">Pink Pearl</a> () | <b>Scientific Names:</b> <i>Begonia semperflorens cultivar</i> | <b>Family:</b> Begoniaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-305 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pinks">Pinks</a> (Carnation, Wild Carnation, Sweet William) | <b>Scientific Names:</b> <i>Dianthus caryophyllus</i> | <b>Family:</b> Caryophyllaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-306 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/plantain-lily">Plantain Lily</a> (Hosta) | <b>Scientific Names:</b> <i>Hosta plantaginea</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-307 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/plum">Plum</a> (similar plants: apricot, peach, cherry) | <b>Scientific Names:</b> <i>Prunus domestica</i> | <b>Family:</b> Rosaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-308 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/plumosa-fern">Plumosa Fern</a> (Asparagus, Emerald Feather, Emerald Fern, Sprengeri Fern, Asparagus Fern, Lace Fern, Racemose Asparagus, Shatavari) | <b>Scientific Names:</b> <i>Asparagus densiflorus cv sprengeri</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-309 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/poinciana">Poinciana</a> (Peacock Flower, Bird of Paradise, Barbados Pride, Pride of Barbados) | <b>Scientific Names:</b> <i>Caesalpinia gilliessi</i> | <b>Family:</b> Leguminosae </span>  </div>  </div>
+
+  <div class="views-row views-row-310 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/poinsettia">Poinsettia</a> () | <b>Scientific Names:</b> <i>Euphorbia pulcherrima</i> | <b>Family:</b> Euphorbiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-311 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/poison-daisy">Poison Daisy</a> (Mayweed, Stinking Chamomile) | <b>Scientific Names:</b> <i>Anthemis cotula</i> | <b>Family:</b> Asteraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-312 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/poison-hemlock">Poison Hemlock</a> (Poison Parsley, Spotted Hemlock, Winter Fern, California Fern, Nebraska Fern, Deadly Hemlock) | <b>Scientific Names:</b> <i>Conium maculatum</i> | <b>Family:</b> Umbelliferae </span>  </div>  </div>
+
+  <div class="views-row views-row-313 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/poison-parsnip">Poison Parsnip</a> (water hemlock, cowbane) | <b>Scientific Names:</b> <i>Cicuta maculata</i> | <b>Family:</b> Apiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-314 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/portulaca">Portulaca</a> (Wild Portulaca, Rock Moss, Purslane, Pigwee, Pusley, Moss Rose) | <b>Scientific Names:</b> <i>Portulaca oleracea</i> | <b>Family:</b> Portulacaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-315 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/prayer-bean">Prayer Bean</a> (Rosary Pea, Buddhist Rosary Bead, Indian Bead, Indian Licorice, Love Bean, Lucky Bean, Seminole Bead, Weather Plant, Precatory Bean) | <b>Scientific Names:</b> <i>Abrus precatorius</i> | <b>Family:</b> Leguminosae </span>  </div>  </div>
+
+  <div class="views-row views-row-316 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pride-india">Pride-of-India</a> (China Ball Tree, Paradise Tree, Persian Lilac, White Cedar, Japanese Bead Tree, Texas Umbrella Tree, Bead Tree, Chinaberry Tree) | <b>Scientific Names:</b> <i>Melia azedarach</i> | <b>Family:</b> Meliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-317 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/primrose">Primrose</a> () | <b>Scientific Names:</b> <i>Primula vulgaris</i> | <b>Family:</b> Primulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-318 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/privet">Privet</a> (amur, wax-leaf, common privet) | <b>Scientific Names:</b> <i>Ligustrum japonicum</i> | <b>Family:</b> Oleaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-319 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/purslane">Purslane</a> (Wild Portulaca, Rock Moss, Portulaca, Pigwee, Pusley, Moss Rose) | <b>Scientific Names:</b> <i>Portulaca oleracea</i> | <b>Family:</b> Portulacaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-320 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/racemose-asparagus">Racemose asparagus</a> (Asparagus, Emerald Feather, Emerald Fern, Sprengeri Fern, Plumosa Fern, Lace Fern, Asparagus Fern, Shatavari) | <b>Scientific Names:</b> <i>Asparagus densiflorus cv sprengeri</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-321 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/ragwort">Ragwort</a> (Golden Ragwort, Tansy) | <b>Scientific Names:</b> <i>Senecio species</i> | <b>Family:</b> Compositae </span>  </div>  </div>
+
+  <div class="views-row views-row-322 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rangers-button">Ranger&#039;s Button</a> (White Heads) | <b>Scientific Names:</b> <i>Sphenosciadium capitellatum</i> | <b>Family:</b> Apiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-323 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/red-emerald">Red Emerald</a> (Horsehead Philodendron, Cordatum, Heartleaf Philodendron, Panda Plant, Split Leaf Philodendron, Fruit Salad Plant, Fiddle Leaf, Red Princess, Saddle Leaf) | <b>Scientific Names:</b> <i>Philodendron bipennifolium</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-324 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/red-lily">Red Lily</a> () | <b>Scientific Names:</b> <i>Lilium umbellatum</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-325 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/red-princess">Red Princess</a> (Horsehead Philodendron, Cordatum, Heartleaf Philodendron, Panda Plant, Split Leaf Philodendron, Fruit Salad Plant, Fiddle Leaf, Red Emerald, Saddle Leaf) | <b>Scientific Names:</b> <i>Philodendron bipennifolium</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-326 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/red-marginated-dracaena">Red-Marginated Dracaena</a> (straight-marginated dracaena) | <b>Scientific Names:</b> <i>Dracaena marginata</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-327 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rex-begonia">Rex Begonia</a> () | <b>Scientific Names:</b> <i>Begonia rex</i> | <b>Family:</b> Begoniaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-328 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rhododendron">Rhododendron</a> (Rosebay, Azalea) | <b>Scientific Names:</b> <i>Rhododendron spp</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-329 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rhubarb">Rhubarb</a> (Pie Plant) | <b>Scientific Names:</b> <i>Rheum rhabarbarium</i> | <b>Family:</b> Polygonaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-330 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/ribbon-plant">Ribbon Plant</a> (Corn Plant, Cornstalk Plant, Dracaena, Dragon Tree) | <b>Scientific Names:</b> <i>Dracaena spp.</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-331 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/ridderstjerne">Ridderstjerne</a> (Amaryllis, Fire Lily, Lily of the Palace, Barbados Lily) | <b>Scientific Names:</b> <i>Hippeastrum spp.</i> | <b>Family:</b> Amaryllidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-332 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rock-moss">Rock Moss</a> (Wild Portulaca, Moss Rose, Purslane, Pigwee, Pusley) | <b>Scientific Names:</b> <i>Portulaca oleracea</i> | <b>Family:</b> Portulacaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-333 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/roman-chamomile">Roman Chamomile</a> (Chamomile, Garden Chamomile, Ground Apple) | <b>Scientific Names:</b> <i>Anthemis nobilis</i> | <b>Family:</b> Asteraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-334 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rosebay">Rosebay</a> (Rhododendron, Azalea) | <b>Scientific Names:</b> <i>Rhododendron spp</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-335 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rubrum-lily">Rubrum Lily</a> () | <b>Scientific Names:</b> <i>Lilium speciosum</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-336 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/running-myrtle">Running Myrtle</a> (Periwinkle, Vinca) | <b>Scientific Names:</b> <i>Vinca rosea</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-337 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sabi-star">Sabi Star</a> (Desert Azalea, Mock Azalea, Desert Rose, Impala Lily, Kudu Lily) | <b>Scientific Names:</b> <i>Adenium obesum</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-338 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sacred-bamboo">Sacred Bamboo</a> (Heavenly Bamboo, Nandina) | <b>Scientific Names:</b> <i>Nandina domestica</i> | <b>Family:</b> Berberidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-339 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/saddle-leaf">Saddle Leaf</a> (Horsehead Philodendron, Cordatum, Heartleaf Philodendron, Panda Plant, Split Leaf Philodendron, Fruit Salad Plant, Red Emerald, Red Princess, Fiddle Leaf) | <b>Scientific Names:</b> <i>Philodendron bipennifolium</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-340 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sago-palm">Sago Palm</a> (Coontie Palm, Cardboard Palm, cycads and zamias) | <b>Scientific Names:</b> <i>Cycas revoluta, zamia species</i> | <b>Family:</b> Cycadaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-341 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/satin-pothos">Satin Pothos</a> (Silk Pothos) | <b>Scientific Names:</b> <i>Scindapsus pictus</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-342 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/scented-geranium">Scented Geranium</a> (Geraniums) | <b>Scientific Names:</b> <i>Pelargonium sp.</i> | <b>Family:</b> Geranilea </span>  </div>  </div>
+
+  <div class="views-row views-row-343 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/schefflera">Schefflera</a> (Umbrella Tree, Australian Ivy Palm, Octopus Tree, Starleaf) | <b>Scientific Names:</b> <i>Schefflera</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-344 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/seaside-daisy">Seaside Daisy</a> (Showy Daisy, Horseweed, Fleabane) | <b>Scientific Names:</b> <i>Erigeron speciosus</i> | <b>Family:</b> Asteraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-345 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/seven-bark">Seven Bark</a> (Hydrangea, Hortensia, Hills of Snow) | <b>Scientific Names:</b> <i>Hydrangea arborescens</i> | <b>Family:</b> Hydrangeaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-346 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/shamrock-plant">Shamrock Plant</a> (Good Luck Plant, Sorrel) | <b>Scientific Names:</b> <i>Oxalis spp.</i> | <b>Family:</b> Oxalidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-347 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/shatavari">Shatavari</a> (Asparagus, Emerald Feather, Emerald Fern, Sprengeri Fern, Plumosa Fern, Lace Fern, Racemose Asparagus) | <b>Scientific Names:</b> <i>Asparagus densiflorus cv sprengeri</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-348 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/showy-daisy">Showy Daisy</a> (Seaside Daisy, Horseweed, Fleabane) | <b>Scientific Names:</b> <i>Erigeron speciosus</i> | <b>Family:</b> Asteraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-349 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/silver-dollar">Silver Dollar</a> (Silver Jade Plant, Chinese Jade) | <b>Scientific Names:</b> <i>Crassula arborescens</i> | <b>Family:</b> Crassulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-350 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/silver-jade-plant">Silver Jade Plant</a> (Chinese Jade, Silver Dollar) | <b>Scientific Names:</b> <i>Crassula arborescens</i> | <b>Family:</b> Crassulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-351 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/skunk-cabbage">Skunk Cabbage</a> (Skunk Weed, Polecat Weed, Meadow Cabbage, Swamp Cabbage) | <b>Scientific Names:</b> <i>Symplocarpus foetidus</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-352 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/snake-lilly">Snake Lilly</a> (Iris, Flag, Water Flag) | <b>Scientific Names:</b> <i>Iris species</i> | <b>Family:</b> Iridaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-353 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/snake-plant">Snake Plant</a> (Golden Bird&#039;s Nest, Mother-in-Law’s Tongue, Good Luck Plant) | <b>Scientific Names:</b> <i>Sansevieria trifasciata</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-354 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/solomons-lily">Solomon’s Lily</a> (Black Calla, Wild Calla, Wild Arum) | <b>Scientific Names:</b> <i>Arum palestinum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-355 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sorrel">Sorrel</a> (Common Sorrel, Spinach-Dock, Narrow-leaved Dock, Garden sorrel) | <b>Scientific Names:</b> <i>Rumex scutatus</i> | <b>Family:</b> Polygonaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-356 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sowbread">Sowbread</a> (Cyclamen) | <b>Scientific Names:</b> <i>Cyclamen spp</i> | <b>Family:</b> Primulaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-357 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/spanish-thyme">Spanish Thyme</a> (Indian Borage, Bread and Butter Plant, Coleus, East Indian Thyme, Stinging Thyme, Country Boarage; many others) | <b>Scientific Names:</b> <i>Coleus ampoinicus</i> | <b>Family:</b> Labiatae </span>  </div>  </div>
+
+  <div class="views-row views-row-358 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/spindle-tree">Spindle Tree</a> (Wahoo, Burning Bush) | <b>Scientific Names:</b> <i>Euonymus atropurpurea</i> | <b>Family:</b> Celastraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-359 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/split-leaf-philodendron">Split Leaf Philodendron</a> (Horsehead Philodendron, Cordatum, Heartleaf Philodendron, Panda Plant, Fiddle-Leaf, Fruit Salad Plant, Red Emerald, Red Princess, Saddle Leaf) | <b>Scientific Names:</b> <i>Philodendron bipennifolium</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-360 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/spotted-dumb-cane">Spotted Dumb Cane</a> (Charming Dieffenbachia, Giant Dumb Cane, Tropic Snow, Dumbcane, Exotica, Exotica Perfection, Dieffenbachia) | <b>Scientific Names:</b> <i>Dieffenbachia amoena</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-361 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sprengeri-fern">Sprengeri Fern</a> (Asparagus, Emerald Feather, Emerald Fern, Plumosa Fern, Lace Fern, Racemose Asparagus, Shatavari) | <b>Scientific Names:</b> <i>Asparagus densiflorus cv sprengeri</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-362 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/spring-parsley">Spring Parsley</a> () | <b>Scientific Names:</b> <i>Cymopterus watsonii</i> | <b>Family:</b> Apiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-363 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/st-johns-wort">St. John’s Wort</a> (Klamath Weed) | <b>Scientific Names:</b> <i>Hypericum perforatum</i> | <b>Family:</b> Clusiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-364 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/staggerbush">Staggerbush</a> (Fetterbush, Maleberry) | <b>Scientific Names:</b> <i>Lyonia sp.</i> | <b>Family:</b> Ericaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-365 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/starch-root">Starch Root</a> (Arum, Lord-and-Ladies, Adam-and-Eve, Wake Robin, Bobbins, Cuckoo Plant) | <b>Scientific Names:</b> <i>Arum maculatum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-366 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/stargazer-lily">Stargazer Lily</a> () | <b>Scientific Names:</b> <i>Lilium orientalis</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-367 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/starleaf">Starleaf</a> (Schefflera, Umbrella Tree, Octopus Tree, Australian Ivy Palm) | <b>Scientific Names:</b> <i>Brassaia actinophylla</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-368 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/stinking-chamomile">Stinking Chamomile</a> (Mayweed, Poison Daisy) | <b>Scientific Names:</b> <i>Anthemis cotula</i> | <b>Family:</b> Asteraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-369 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/straight-margined-dracaena">Straight-Margined Dracaena</a> (red-margined dracaena) | <b>Scientific Names:</b> <i>Dracaena marginata</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-370 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/striped-dracaena">Striped Dracaena</a> (warneckii, janet craig plant) | <b>Scientific Names:</b> <i>Dracaena deremensis</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-371 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/superb-lily">Superb Lily</a> (Glory Lily, Climbing Lily, Gloriosa Lily) | <b>Scientific Names:</b> <i>Gloriosa superba</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-372 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sweet-cherry">Sweet Cherry</a> () | <b>Scientific Names:</b> <i>Prunus avium</i> | <b>Family:</b> Rosaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-373 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sweet-pea">Sweet Pea</a> (Perennial Pea, Everlasting Pea) | <b>Scientific Names:</b> <i>Lathyrus latifolius</i> | <b>Family:</b> Fabaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-374 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sweet-william">Sweet William</a> (Carnation, Wild Carnation, Pinks) | <b>Scientific Names:</b> <i>Dianthus caryophyllus</i> | <b>Family:</b> Caryophyllaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-375 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sweetheart-ivy">Sweetheart Ivy</a> (English Ivy, Glacier Ivy, Needlepoint Ivy, Branching Ivy, California Ivy) | <b>Scientific Names:</b> <i>Hedera helix</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-376 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/swiss-cheese-plant">Swiss Cheese Plant</a> (Cutleaf Philodendron, Hurricane Plant, Ceriman, Mexican Breadfruit) | <b>Scientific Names:</b> <i>Monstera deliciosa</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-377 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tahitian-bridal-veil">Tahitian Bridal Veil</a> (Gibasis Geniculata) | <b>Scientific Names:</b> <i>tradescantia multiflora</i> | <b>Family:</b> Commelinaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-378 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tail-flower">Tail Flower</a> (Flamingo Plant, Flamingo Lily, Oilcloth Flower, Pigtail Plant, Painter&#039;s Pallet) | <b>Scientific Names:</b> <i>Anthurium scherzeranum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-379 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/taro">Taro</a> (Caladium, Elephant Ears, Pai, Ape, Cape, Via, Via sori, Malanga) | <b>Scientific Names:</b> <i>Caladium hortulanum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-380 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/taro-0">Taro</a> (Caladium, Elephant&#039;s Ears, Malanga) | <b>Scientific Names:</b> <i>Colocasia esculenta</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-381 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/taro-vine">Taro Vine</a> (Golden Pothos, Devil&#039;s Ivy, Devil&#039;s Vine, Ivy Arum) | <b>Scientific Names:</b> <i>Epipremnum aureum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-382 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tarragon">Tarragon</a> (French Tarragon, Estragon) | <b>Scientific Names:</b> <i>Artemisia dracunculus</i> | <b>Family:</b> Asteraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-383 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/texas-umbrella-tree">Texas Umbrella Tree</a> (China Ball Tree, Paradise Tree, Persian Lilac, White Cedar, Japanese Bead Tree, Bead Tree, Pride-of-India, Chinaberry Tree) | <b>Scientific Names:</b> <i>Melia azedarach</i> | <b>Family:</b> Meliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-384 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/ti-plant">Ti-Plant</a> (Baby Doll Ti Plant, Hawaiian Ti Plant) | <b>Scientific Names:</b> <i>Cordyline terminalis</i> | <b>Family:</b> Agavaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-385 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tiger-lily">Tiger Lily</a> () | <b>Scientific Names:</b> <i>Lilium tigrinum</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-386 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tobacco">Tobacco</a> (Tree Tobacco, Nicotiana, Mustard Tree) | <b>Scientific Names:</b> <i>Nicotiana glauca</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-387 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tomato-plant">Tomato Plant</a> () | <b>Scientific Names:</b> <i>Lycopersicon spp</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-388 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tree-philodendron">Tree Philodendron</a> () | <b>Scientific Names:</b> <i>Philodendron selloum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-389 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tree-tobacco">Tree Tobacco</a> (Nicotania, Tobacco, Mustard Tree) | <b>Scientific Names:</b> <i>Nicotiana glauca</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-390 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tropic-snow">Tropic Snow</a> (Charming Dieffenbachia, Giant Dumb Cane, Dumbcane, Exotica, Exotica Perfection, Dieffenbachia) | <b>Scientific Names:</b> <i>Dieffenbachia amoena</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-391 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/true-aloe">True Aloe</a> (Medicine Plant, Aloe, Barbados Aloe) | <b>Scientific Names:</b> <i>Aloe barbadensis</i> | <b>Family:</b> Aloaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-392 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/trumpet-lily">Trumpet Lily</a> (Calla Lily, Pig Lily, White Arum, Arum Lily, Florist&#039;s Calla, Garden Calla, Arum Lily) | <b>Scientific Names:</b> <i>Zantedeschia aethiopica</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-393 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tulip">Tulip</a> () | <b>Scientific Names:</b> <i>Tulipa spp.</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-394 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/umbrella-leaf">Umbrella Leaf</a> (Indian Apple Root, American Mandrake, Wild Lemon, Hog Apple, Duck&#039;s Foot, Raccoonberry, American Mandrake) | <b>Scientific Names:</b> <i>Podophyllum peltatum</i> | <b>Family:</b> Berberidaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-395 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/umbrella-tree">Umbrella Tree</a> (Schefflera, Australian Ivy Palm, Octopus Tree, Starleaf) | <b>Scientific Names:</b> <i>Brassaia actinophylla</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-396 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/variable-dieffenbachia">Variable Dieffenbachia</a> () | <b>Scientific Names:</b> <i>Dieffenbachia picta</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-397 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/variegated-inch-plant">Variegated Inch Plant</a> (Speedy Henry) | <b>Scientific Names:</b> <i>Tradescantia flumeninsis</i> | <b>Family:</b> Commelinaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-398 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/variegated-laurel">Variegated Laurel</a> (speedy henry) | <b>Scientific Names:</b> <i>Tradescantia flumeninsis</i> | <b>Family:</b> Commelinaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-399 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/variegated-philodendron">Variegated Philodendron</a> () | <b>Scientific Names:</b> <i>Scindapsus, Philodendron spp</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-400 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/vinca">Vinca</a> (Periwinkle, Running Myrtle) | <b>Scientific Names:</b> <i>Vinca rosea</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-401 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/virgins-bower">Virgin&#039;s Bower</a> (Clematis, Leatherflower) | <b>Scientific Names:</b> <i>Clematis sp.</i> | <b>Family:</b> Ranunculaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-402 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/wahoo">Wahoo</a> (Burning Bush, Spindle Tree) | <b>Scientific Names:</b> <i>Euonymus occidentalis</i> | <b>Family:</b> Celastraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-403 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/wake-robin">Wake Robin</a> (Arum, Lord-and-Ladies, Adam-and-Eve, Starch Root, Bobbins, Cuckoo Plant) | <b>Scientific Names:</b> <i>Arum maculatum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-404 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/warneckei-dracaena">Warneckei Dracaena</a> (Striped Dracaena, Janet Craig Plant) | <b>Scientific Names:</b> <i>Dracaena deremensis</i> | <b>Family:</b> Asparagaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-405 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/water-flag">Water Flag</a> (Iris, Snake Lily, Flag) | <b>Scientific Names:</b> <i>Iris species</i> | <b>Family:</b> Iridaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-406 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/water-hemlock">Water Hemlock</a> (cowbane, poison parsnip) | <b>Scientific Names:</b> <i>Cicuta maculata</i> | <b>Family:</b> Apiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-407 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/wax-leaf">Wax-Leaf</a> (privet, amur, common privet) | <b>Scientific Names:</b> <i>Ligustrum japonicum</i> | <b>Family:</b> Oleaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-408 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/weeping-fig">Weeping Fig</a> (fig, indian rubber plant) | <b>Scientific Names:</b> <i>Ficus sp.</i> | <b>Family:</b> Moraceae </span>  </div>  </div>
+
+  <div class="views-row views-row-409 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/western-yew">Western Yew</a> (English Yew, Pacific Yew, Japanese Yew, Anglo-Japanese Yew) | <b>Scientific Names:</b> <i>Taxus brevifolia</i> | <b>Family:</b> Taxaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-410 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/white-heads">White Heads</a> (Ranger&#039;s Button) | <b>Scientific Names:</b> <i>Sphenosciadium capitellatum</i> | <b>Family:</b> Apiaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-411 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/wild-arum">Wild Arum</a> (Black Calla, Wild Calla, Solomon&#039;s Lily) | <b>Scientific Names:</b> <i>Arum palestinum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-412 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/wild-calla">Wild Calla</a> (Black Calla, Wild Arum, Solomon&#039;s Lily) | <b>Scientific Names:</b> <i>Arum palestinum</i> | <b>Family:</b> Araceae </span>  </div>  </div>
+
+  <div class="views-row views-row-413 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/wild-carnation">Wild Carnation</a> (Carnation, Sweet William, Pinks) | <b>Scientific Names:</b> <i>Dianthus caryophyllus</i> | <b>Family:</b> Caryophyllaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-414 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/wild-coffee">Wild Coffee</a> (Geranium-Leaf Aralia, Coffee Tree) | <b>Scientific Names:</b> <i>Polyscias guilfoylei</i> | <b>Family:</b> Araliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-415 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/winter-cherry">Winter Cherry</a> (Natal Cherry, Jerusalem Cherry) | <b>Scientific Names:</b> <i>Solanum pseudocapsicum</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-416 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/winterberry">Winterberry</a> (English Holly, European Holly, Oregon Holly, Inkberry, American Holly) | <b>Scientific Names:</b> <i>Ilex opaca</i> | <b>Family:</b> Aquifoliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-417 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/wisteria">Wisteria</a> () | <b>Scientific Names:</b> <i>Wisteria spp.</i> | <b>Family:</b> Fabaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-418 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/wood-lily">Wood Lily</a> () | <b>Scientific Names:</b> <i>Lilium umbellatum</i> | <b>Family:</b> Liliaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-419 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yarrow">Yarrow</a> (Milfoil) | <b>Scientific Names:</b> <i>Achillea millefolium</i> | <b>Family:</b> Compositae </span>  </div>  </div>
+
+  <div class="views-row views-row-420 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yellow-oleander">Yellow Oleander</a> () | <b>Scientific Names:</b> <i>Thevetia peruviana</i> | <b>Family:</b> Apocynaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-421 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yesterday-today-tomorrow">Yesterday, Today, Tomorrow</a> (Morning-Noon-and-Night, Kiss-Me-Quick, Lady-of-the-Night, Fransiscan Rain Tree, Brunfelsia) | <b>Scientific Names:</b> <i>Brunfelsia species</i> | <b>Family:</b> Solanaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-422 views-row-even">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yew">Yew</a> (japanese yew) | <b>Scientific Names:</b> <i>Taxus spp.</i> | <b>Family:</b> Taxaceae </span>  </div>  </div>
+
+  <div class="views-row views-row-423 views-row-odd">
+      
+  <div class="views-field views-field-path">        <span class="field-content"><a href="/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yew-pine">Yew Pine</a> (buddhist pine) | <b>Scientific Names:</b> <i>Podocarpus macrophylla</i> | <b>Family:</b> Podocarpacaea </span>  </div>  </div>
+
